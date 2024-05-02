@@ -1,2 +1,2 @@
 # LaneSnively.github.io
-my personal website
+[my personal website](LaneSnively.github.io)
